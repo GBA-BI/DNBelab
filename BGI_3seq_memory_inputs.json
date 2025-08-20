@@ -1,0 +1,19 @@
+{
+  "DNBelab_C_Workflow.CDNAfastq1": [
+    "s3://mgi-t7/R2100610240019/E250119334/L01/E250119334_L01/E250119334_L01_8_1.fq.gz"
+  ],
+  "DNBelab_C_Workflow.CDNAfastq2": [
+    "s3://mgi-t7/R2100610240019/E250119334/L01/E250119334_L01/E250119334_L01_8_2.fq.gz"
+  ],
+  "DNBelab_C_Workflow.cpu": 30,
+  "DNBelab_C_Workflow.disk": "1000 GB",
+  "DNBelab_C_Workflow.genome_name": "GRCh38",
+  "DNBelab_C_Workflow.memory": "128 GB",
+  "DNBelab_C_Workflow.oligofastq1": [
+    "s3://mgi-t7/R2100610240019/E250119334/L01/E250119334_L01/E250119334_L01_26_1.fq.gz"
+  ],
+  "DNBelab_C_Workflow.oligofastq2": [
+    "s3://mgi-t7/R2100610240019/E250119334/L01/E250119334_L01/E250119334_L01_26_2.fq.gz"
+  ],
+  "DNBelab_C_Workflow.sample_name": "2-GemC1"
+}

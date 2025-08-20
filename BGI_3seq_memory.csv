@@ -1,0 +1,7 @@
+﻿File name,File description,Date created,Last updated,File type,File size,Data source,Data path
+metrics_summary.xls,-,2025-08-19,2025-08-19,xls,720 B,s3://bioos-wcu0et9r021m8n32dipn0/analysis/sd2hddf6jmhsehmpac810/DNBelab_C_Workflow/443fcc7c-4c45-4f81-a606-d3f551f713c9/call-DNBelabanalysis/execution/metrics_summary.xls,drs://imc-drs.miracle.ac.cn/ed2i46e97t7ckp90fkl4g
+E250119334_L01_26_1.fq.gz,-,2025-08-19,2025-08-19,gz,1.78 GiB,s3://mgi-t7/R2100610240019/E250119334/L01/E250119334_L01/E250119334_L01_26_1.fq.gz,drs://imc-drs.miracle.ac.cn/ed2i46e97t7ckp90fkl50
+splice_matrix.tar.gz,-,2025-08-19,2025-08-19,gz,97.22 MiB,s3://bioos-wcu0et9r021m8n32dipn0/analysis/sd2hddf6jmhsehmpac810/DNBelab_C_Workflow/443fcc7c-4c45-4f81-a606-d3f551f713c9/call-DNBelabanalysis/execution/splice_matrix.tar.gz,drs://imc-drs.miracle.ac.cn/ed2i46e97t7ckp90fkl5g
+E250119334_L01_8_1.fq.gz,-,2025-08-19,2025-08-19,gz,49.59 GiB,s3://mgi-t7/R2100610240019/E250119334/L01/E250119334_L01/E250119334_L01_8_1.fq.gz,drs://imc-drs.miracle.ac.cn/ed2i46e97t7ckp90fkl60
+E250119334_L01_26_2.fq.gz,-,2025-08-19,2025-08-19,gz,4.72 GiB,s3://mgi-t7/R2100610240019/E250119334/L01/E250119334_L01/E250119334_L01_26_2.fq.gz,drs://imc-drs.miracle.ac.cn/ed2i46e97t7ckp90fkl6g
+2-GemC1_scRNA_report.html,-,2025-08-19,2025-08-19,html,4.73 MiB,s3://bioos-wcu0et9r021m8n32dipn0/analysis/sd2hddf6jmhsehmpac810/DNBelab_C_Workflow/443fcc7c-4c45-4f81-a606-d3f551f713c9/call-DNBelabanalysis/execution/2-GemC1_scRNA_report.html,drs://imc-drs.miracle.ac.cn/ed2i46e97t7ckp90fkl70
